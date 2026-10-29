@@ -21,7 +21,7 @@ class MainActivity : ComponentActivity() {
         setContent {
             PermissionsLabTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
-                    Task4Screen()
+                    Task5Screen()
                 }
             }
         }
